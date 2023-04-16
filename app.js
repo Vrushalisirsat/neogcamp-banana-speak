@@ -15,7 +15,7 @@ function errorHandler(error){
 }
 
 function clickHandler() {
-//  OutputDiv.innerText = "aaaaaaaaaaaaaaaaaa  " + txtInput.value;
+
 
 var inputText = txtInput.value;       //taking input
 
